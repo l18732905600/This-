@@ -61,6 +61,8 @@ public class Demo01ArrayList {
 		//i:集合的索引  list.size():获取集合的长度  list.get(i):获取指定索引处的元素
 		for(int i=0; i<list.size();i++){
 			System.out.println(list.get(i));
+
+			//368398
 		}
 		
 	}
